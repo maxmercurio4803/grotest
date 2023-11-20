@@ -44,8 +44,8 @@
                     "createdAt": "2023-10-23T23:07:51.543Z",
                     "updatedAt": "2023-10-23T23:07:51.543Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f619ab2a4a21830baf2e5d/projects/6536d7d5a420ab2e7c692437/assets/6536fcc718798e4b39bb6e22?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231116%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231116T161402Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=0f6482f260cd23c59b8d2ece1b0f1304f702e0446d9054d594698dc932f1c976d8a604908fe18cca35fcaf041914c7424c53ab2e3f1049b4b16b801cf18ae241ceef94e15c2307d2f58cf25c8edf0effca64b9c45a54ff74fd67a0366123c61c8dea90973a62a9d1a8a9c72f3dbe0223b3d41a5c723ff7ad9a329f4228e18cb325751285cc7c8ffa7adc56e6fad125f3f528433d1e336ab026040e778a68ba1ddbb27fad072871ae4d12e4f310eef9d46d5e4b2b979fffa41e402320e82f7101eddb5d1cb4ab43effe4c199b6c734e4f94362641222eba43ab24d4fee619c0956b80b01e7ddce3038e6266d75eba17990179903065ce1f1868b11ad0dd865da3",
-                    "signedUrlExpirationTime": 1700324042888
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f619ab2a4a21830baf2e5d/projects/6536d7d5a420ab2e7c692437/assets/6536fcc718798e4b39bb6e22?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231119%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231119T233702Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=4a14618fa7abad3b44f9429a0e9153993adea25ad5549ae73c4e87a4af3c8658c01e4a2f0e6d0e0d25652711e5b91ade15bfeeb7db6306c6c11bde75f503095aaae3035e550e9eba4bce9f23729494d08f45bc76aadee55559d56980d61e32bb850d534f1dcd41cd9bdc110536e00cf6aff76f19b69069833bc8ae59379d36e1711a82c1afafe2218f948287206b95446ebe4226bac40a56c3e54b82be53b9d16db11e6d08f90d850a30ae0af25206cea883c8cd2de6e66ba178e4dd86b8e493b2bf3bedc76aba9da885fae1529b49d487a8f519bec07c509b87248e4f4c91c574b72b1ef5cec075d37e3fb45fc92dd0b7b98bc73e5dbd5b8d896eda8a949f4d",
+                    "signedUrlExpirationTime": 1700609822236
                 },
                 "6552f495cf155d652ad802af": {
                     "externalStorageType": "GCS",
@@ -60,8 +60,8 @@
                     "createdAt": "2023-11-14T04:16:21.332Z",
                     "updatedAt": "2023-11-14T04:16:21.332Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e4f79e1206198303a399/projects/65369e24c5c507d66f32ea58/assets/6552f495cf155d652ad802af?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231116%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231116T161402Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=3d4333aa36077679b55aa8b0553dcbdef1bf590d2167777cdce32fe75cb7f0709b919e2178341aa7464bcec15d14e4236a1215594ef48abe73da74ba4abf8b35af165deb6e24e9aec5b3f029ca2812aee620689124849d50ac519784de5e560120c1026e3c189f3961bfa042b2a3a083f12d938a2d95c9b39080025ea537e3628678240bc32de8306d6a55b35ca0c477aee277d8a4efcfe56741ee5d6c1ba0e8e579a461d6efff17c0c0ea065724a40a91f6825124620bb372839d74f05aa83f4b8397b825c8b993aaef1fb2812910ceb57397d3b94f8f0a1f1cb838df44fd5cb02322f87c96cc232dc8ce387aa78f35223710d7634dfb999c7f7f954fd2fe5a",
-                    "signedUrlExpirationTime": 1700324042891
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e4f79e1206198303a399/projects/65369e24c5c507d66f32ea58/assets/6552f495cf155d652ad802af?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231119%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231119T233702Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=7f960870ee86aa3ba542a7cdc8c8fbfd026a784787ff6db56d70d5c41a54cc18f49a617eb1f5b36b1c6696b4463b2e4d7dec94eb482efb0311a40e6c0f953d90a36b822c8433b0b06e86dc2bab93cc73c0a5204d8dc1dc1048b22541c6f21e37fa04df18d0862459e7ab5653eb1ac1b0cacdc37b8ece8f05f1b7633b0480b60cc6882fd62ca2f4bf7cd52a84d0201b14f14f93eb80459a1e814ca6e7e8d87dbc733045269c286df9889bbcfd18e0877bb40c1ca59f547dd63dac6e0dd6ddab9813cd4722d564ae709b1888249a52f952bb8c5c09c7028929616c7267853b078c05efb1719cdc8f8125a0b527402da800d0adff34999c02f4b93df9d8a64c43f3",
+                    "signedUrlExpirationTime": 1700609822239
                 },
                 "6552f4bb1fc11c410e409c97": {
                     "externalStorageType": "GCS",
@@ -76,8 +76,8 @@
                     "createdAt": "2023-11-14T04:16:59.809Z",
                     "updatedAt": "2023-11-14T04:16:59.809Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e4f79e1206198303a399/projects/65369e24c5c507d66f32ea58/assets/6552f4bb1fc11c410e409c97?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231116%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231116T161402Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=2408bc190ef8c9b84dfdd7003b2c54ba9f237103e5c8bf75af2da5fb6956d0b74259e85ee312275aba882526cf1b3fb93dc1f477498758e6437c85a91703675a0a06c25dfc6d69048ad67eac5a043845a172752411c541b02d49fb7b914a4457485378776f5e7d20b7a1e6c26be9bf189da931ae2dd4730e2ccea0c7cf5eea5cbc58237331b5e23f2273b16c511ed9cd2f4b581da26ee0bcaefeb6196d5717d10a01d6d96bc96a7add7a9460983ea8b967de8a973c3aba387055b22e58b01e2ee4f25cc18195d767ec37fe88312b24e4b2acabb86e4b61fc70732aecfdd1ef62bbe5568f34d54796c27ed38aa73bfe1db7c5f68f5793c57f26ce388f0e0af981",
-                    "signedUrlExpirationTime": 1700324042893
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e4f79e1206198303a399/projects/65369e24c5c507d66f32ea58/assets/6552f4bb1fc11c410e409c97?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231119%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231119T233702Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a7f8b9e09c18df5270d930c2712ceaea73c86375ecdc9ed3c213b8184f75c503692bc99f9842fc2df8954200a15153417d99a5684893f8f11c51e98cbf876ccc39d8ea64e47456c514b35a0ebe4f528ec43ad3e7a1fcdcd3c881d26fd8debc604ce6294f2a98ec82292f96a57dcfbf8092932fd90bf3019c1349f1182b67c4769450e70d1aea2d5cbc99e6ddee9e2a9251db3bbc50bdf409fddcf8f7314b30280250a6d2b857619faef9324add636f7ee0ea7d92f6782600618b9a2e33728cc1d415582cefe03b462794c2851919ac6f27d9eb238a92c64f18b9d6cb0c2a90047c62245368c667c7a5d19492b58f3a17e0e6be391b9b524ae2827503ec989cbd",
+                    "signedUrlExpirationTime": 1700609822241
                 }
             },
             "backendUpgradeVersion": 23,
@@ -142,6 +142,16 @@
                     "enabledFeatures": {
                         "iap": false
                     }
+                },
+                "e584be74-034e-40e2-8103-e3c783de5796": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -166,32 +176,50 @@
                     },
                     {
                         "id": "cad3758a-76a8-4a53-af85-09c3fdd6ff23"
+                    },
+                    {
+                        "id": "e584be74-034e-40e2-8103-e3c783de5796"
                     }
                 ]
             },
             "figmaComponents": {},
-            "description": null,
-            "icon": null,
-            "projectName": "GroCalc",
+            "description": "GroCalc is an app that helps you split costs of groceries and more amongst your roommates. First, create an account with an email and a password. Then verify that account in your emails and sign in to the app. Once you're in you can add your roommates as friends, create items with their name, cost, and which roommates are paying, and then you can calculate the total amount each roommate needs to pay.",
+            "icon": "https://x.thunkable.com/project/65369e1c3c63507bf181f1e1/getasset/65564b9b42d0a97266f1eb62",
+            "projectName": "GroCatest UPTODATE",
             "settings": {
                 "teamId": null,
                 "appName": "GroCalc",
-                "icon": null,
+                "icon": {
+                    "externalStorageType": "GCS",
+                    "_id": "65564b9b42d0a97266f1eb62",
+                    "size": "66313",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "grocalc-high-resolution-logo-transparent.png",
+                    "backendURI": "/project/65369e1c3c63507bf181f1e1/getasset/65564b9b42d0a97266f1eb62",
+                    "name": "grocalc-high-resolution-logo-transparent.png",
+                    "externalName": "users/64f8b469411b7c70e0c2ba0d/projects/65369e1c3c63507bf181f1e1/assets/65564b9b42d0a97266f1eb62",
+                    "createdAt": "2023-11-16T17:04:27.397Z",
+                    "updatedAt": "2023-11-16T17:04:27.397Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f8b469411b7c70e0c2ba0d/projects/65369e1c3c63507bf181f1e1/assets/65564b9b42d0a97266f1eb62?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231116%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231116T170427Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=6b404ad468d31b870a8d7c1b6c25e996010a0657b822e062dafd747bd98d97b143ed06ae69c40d4c1069ac098d2d287495e93659c64fbe79bee276ec86b25d39c4aaa1f1e8ffd2c3892ccdb919dd8400a910c4992f72cc2b7c71747083b4cb937aa0b14b60ca3852237a34c38dc2461d790f4109e38dbcbcea74b81d9598c79c28e30c30f2a165ef927d55606d6341524ea1e399097417f9cde27977ecc6a0e3e7ed53d598b55aa6287fec0c9759568e08ee3e359b9048ea207cf0671984666e14cc31fbf6fc2cb802ff727617df2740b8caf021ba2ce0d17600407736f0d396e22bb7a38469e363ef40787615ba3fa413af43ea5916ac8599f5967f86adaabe",
+                    "signedUrlExpirationTime": 1700327067425
+                },
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
                 "notchAreaColor": null,
-                "androidVersionName": "1",
-                "androidVersionCode": 1,
-                "iosVersionNumber": "1",
+                "androidVersionName": "5",
+                "androidVersionCode": 5,
+                "iosVersionNumber": "5",
                 "iosBuildNumber": "1",
                 "firebaseAPIKey": "AIzaSyC1Fmqc4U4mWSwKinxRlR2R5sO0cb37uOM",
-                "firebaseDatabaseURL": "https://grocalc-default-rtdb.firebaseio.com",
+                "firebaseDatabaseURL": "https://grocalc-default-rtdb.firebaseio.com/",
                 "stripePublishableKeyTest": null,
                 "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
                 "stripeTestMode": true,
                 "isPublic": true,
-                "description": null,
+                "description": "GroCalc is an app that helps you split costs of groceries and more amongst your roommates. First, create an account with an email and a password. Then verify that account in your emails and sign in to the app. Once you're in you can add your roommates as friends, create items with their name, cost, and which roommates are paying, and then you can calculate the total amount each roommate needs to pay.",
                 "mobileTutorial": null,
                 "pushNotificationAndroidAppId": null,
                 "pushNotificationIOSAppId": null,
@@ -213,29 +241,44 @@
                 "appleOAuthWebClientID": null,
                 "appleOAuthWebRedirectURI": null,
                 "admobAppIdIOS": null,
-                "admobAppIdAndroid": null,
+                "admobAppIdAndroid": "",
                 "admobUserTrackingUsageDescription": null,
                 "__typename": "ProjectSettings"
             },
             "projectSettings": {
                 "teamId": null,
                 "appName": "GroCalc",
-                "icon": null,
+                "icon": {
+                    "externalStorageType": "GCS",
+                    "_id": "65564b9b42d0a97266f1eb62",
+                    "size": "66313",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "grocalc-high-resolution-logo-transparent.png",
+                    "backendURI": "/project/65369e1c3c63507bf181f1e1/getasset/65564b9b42d0a97266f1eb62",
+                    "name": "grocalc-high-resolution-logo-transparent.png",
+                    "externalName": "users/64f8b469411b7c70e0c2ba0d/projects/65369e1c3c63507bf181f1e1/assets/65564b9b42d0a97266f1eb62",
+                    "createdAt": "2023-11-16T17:04:27.397Z",
+                    "updatedAt": "2023-11-16T17:04:27.397Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f8b469411b7c70e0c2ba0d/projects/65369e1c3c63507bf181f1e1/assets/65564b9b42d0a97266f1eb62?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231116%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231116T170427Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=6b404ad468d31b870a8d7c1b6c25e996010a0657b822e062dafd747bd98d97b143ed06ae69c40d4c1069ac098d2d287495e93659c64fbe79bee276ec86b25d39c4aaa1f1e8ffd2c3892ccdb919dd8400a910c4992f72cc2b7c71747083b4cb937aa0b14b60ca3852237a34c38dc2461d790f4109e38dbcbcea74b81d9598c79c28e30c30f2a165ef927d55606d6341524ea1e399097417f9cde27977ecc6a0e3e7ed53d598b55aa6287fec0c9759568e08ee3e359b9048ea207cf0671984666e14cc31fbf6fc2cb802ff727617df2740b8caf021ba2ce0d17600407736f0d396e22bb7a38469e363ef40787615ba3fa413af43ea5916ac8599f5967f86adaabe",
+                    "signedUrlExpirationTime": 1700327067425
+                },
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
                 "notchAreaColor": null,
-                "androidVersionName": "1",
-                "androidVersionCode": 1,
-                "iosVersionNumber": "1",
+                "androidVersionName": "5",
+                "androidVersionCode": 5,
+                "iosVersionNumber": "5",
                 "iosBuildNumber": "1",
                 "firebaseAPIKey": "AIzaSyC1Fmqc4U4mWSwKinxRlR2R5sO0cb37uOM",
-                "firebaseDatabaseURL": "https://grocalc-default-rtdb.firebaseio.com",
+                "firebaseDatabaseURL": "https://grocalc-default-rtdb.firebaseio.com/",
                 "stripePublishableKeyTest": null,
                 "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
                 "stripeTestMode": true,
                 "isPublic": true,
-                "description": null,
+                "description": "GroCalc is an app that helps you split costs of groceries and more amongst your roommates. First, create an account with an email and a password. Then verify that account in your emails and sign in to the app. Once you're in you can add your roommates as friends, create items with their name, cost, and which roommates are paying, and then you can calculate the total amount each roommate needs to pay.",
                 "mobileTutorial": null,
                 "pushNotificationAndroidAppId": null,
                 "pushNotificationIOSAppId": null,
@@ -257,11 +300,11 @@
                 "appleOAuthWebClientID": null,
                 "appleOAuthWebRedirectURI": null,
                 "admobAppIdIOS": null,
-                "admobAppIdAndroid": null,
+                "admobAppIdAndroid": "",
                 "admobUserTrackingUsageDescription": null,
                 "__typename": "ProjectSettings"
             },
-            "hasAdmob": true,
+            "hasAdmob": false,
             "hasBluetoothLowEnergy": null,
             "hasPushNotification": false,
             "hasAssistant": null,
@@ -364,51 +407,62 @@
                                     }
                                 ],
                                 "data": {
-                                    "edges": []
+                                    "edges": [
+                                        {
+                                            "cursor": "e4a6dd72-6eef-4c56-b2e3-c1333e513981",
+                                            "node": {
+                                                "id": "f6c5e3cf-9f36-46c8-ac02-cf7faa359bf0",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "11daedf1-2793-4981-bce5-aea4d0b88d43",
+                                                        "value": "nick"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "6073ae53-e725-49de-b8ef-ddcc69624164",
+                                            "node": {
+                                                "id": "50b5b1a9-b56d-405d-94bf-124617cc9e8f",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "11daedf1-2793-4981-bce5-aea4d0b88d43",
+                                                        "value": "max"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "14a4ebae-43f9-426f-a150-1b18805c7c83",
+                                            "node": {
+                                                "id": "e3d91852-8174-414c-9c71-871ed23691b1",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "11daedf1-2793-4981-bce5-aea4d0b88d43",
+                                                        "value": "chace"
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "6e035c12-e524-418b-ae00-7cf3b3d83494",
+                                            "node": {
+                                                "id": "ef13227f-bd54-4487-a4d5-dcdfe4662d9a",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "11daedf1-2793-4981-bce5-aea4d0b88d43",
+                                                        "value": "steven"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
                                 }
                             }
                         ],
                         "configuration": {
                             "id": "34b64fda-903b-4e73-ab11-16abdffe4522",
                             "name": "roomates",
-                            "owner": "64f9e4f79e1206198303a399",
-                            "type": "LOCAL"
-                        }
-                    }
-                },
-                {
-                    "id": "ddb1e30a-0626-4523-bfd4-215eb33c259e",
-                    "dataSource": {
-                        "id": "10800a00-0bc2-4a32-a8ee-0b8b6df4c0df",
-                        "name": "friend_requests",
-                        "owner": "64f9e4f79e1206198303a399",
-                        "collections": [
-                            {
-                                "id": "3335e24f-00a4-4227-b46f-3686a7dfa2cb",
-                                "name": "Table 1",
-                                "label": "Table 1",
-                                "fields": [
-                                    {
-                                        "id": "de6f168f-3a75-4e77-940f-cc7b33016d52",
-                                        "name": "column1",
-                                        "label": "id",
-                                        "type": "STRING"
-                                    },
-                                    {
-                                        "id": "18f3a95e-1ca8-4055-9264-91d8b1618886",
-                                        "name": "column2",
-                                        "label": "name",
-                                        "type": "NUMBER"
-                                    }
-                                ],
-                                "data": {
-                                    "edges": []
-                                }
-                            }
-                        ],
-                        "configuration": {
-                            "id": "fb327ff5-ca94-4360-a536-d288326a6882",
-                            "name": "friend_requests",
                             "owner": "64f9e4f79e1206198303a399",
                             "type": "LOCAL"
                         }
@@ -425,22 +479,22 @@
                 "502f3c2d-d491-49b7-acc2-4cad55c69ef4": {
                     "scope": "STORED",
                     "name": "email",
-                    "screenId": "6a0f225c-15b6-4541-b030-408299738669"
+                    "screenId": "025c44f3-27b9-4ab0-b05f-a199d9d39c66"
                 },
                 "df03e0ac-c71c-45c1-9539-edcde651ba85": {
                     "scope": "STORED",
                     "name": "pass",
-                    "screenId": "6a0f225c-15b6-4541-b030-408299738669"
+                    "screenId": "025c44f3-27b9-4ab0-b05f-a199d9d39c66"
                 },
                 "82c39ddb-cab5-4b6d-9e3c-036829192be8": {
                     "scope": "APP",
                     "name": "session_email",
-                    "screenId": "6a0f225c-15b6-4541-b030-408299738669"
+                    "screenId": "025c44f3-27b9-4ab0-b05f-a199d9d39c66"
                 },
                 "3c1c1bd7-3992-4ec7-a785-859ffd1715ba": {
                     "scope": "APP",
                     "name": "userID",
-                    "screenId": "6a0f225c-15b6-4541-b030-408299738669"
+                    "screenId": "025c44f3-27b9-4ab0-b05f-a199d9d39c66"
                 },
                 "03795bd6-116c-4d06-9fac-776fdd0bbceb": {
                     "scope": "APP",
@@ -462,10 +516,15 @@
                     "name": "selectedRoomateUserIDs",
                     "screenId": "c218e5f5-5e8a-405e-a4d2-5ad01a50db68"
                 },
-                "14175699-ac2d-489a-ac5d-f357c9962d8e": {
-                    "scope": "APP",
-                    "name": "friendRequests_local",
-                    "screenId": "cad3758a-76a8-4a53-af85-09c3fdd6ff23"
+                "57b5fa76-a81b-4065-9d48-e5ccc39379e1": {
+                    "scope": "STORED",
+                    "name": "item",
+                    "screenId": "5cf4bc57-4d1b-41bb-bd98-9af3a3e6679a"
+                },
+                "847bdd14-48b4-4f5a-895c-2587bfb676eb": {
+                    "scope": "STORED",
+                    "name": "itemrowid",
+                    "screenId": "5cf4bc57-4d1b-41bb-bd98-9af3a3e6679a"
                 }
             },
             "defaultDesignerDevice": "PHONE",
